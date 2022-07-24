@@ -10,6 +10,8 @@ So this is quite simple:
 1. Clone the repository:
 ```bash
   git clone https://github.com/RussianRoulette4Life/enlightnerProject
+```
+```bash
   cd enlightnerProject
 ```
 2. Install dependencies:
@@ -19,6 +21,10 @@ So this is quite simple:
 3. Spin up the website:
 ```bash
   npm run dev
+```
+
   OR
+  
+```bash
   nodemon express.js
 ```
