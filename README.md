@@ -28,3 +28,6 @@ So this is quite simple:
 ```bash
   nodemon express.js
 ```
+
+
+And then search in the browser for `localhost:3000` 
